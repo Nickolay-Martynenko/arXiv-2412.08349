@@ -1,5 +1,5 @@
 # Hypothetical Lorentz invariance violation and the muon content of extensive air showers
-*Nickolay S. Martynenko, Grigory I. Rubtsov, Petr S. Satunin, Andrey K. Sharofeev, Sergey V. Troitsky*
+*Nickolay S. Martynenko, Grigory I. Rubtsov, Petr S. Satunin, Andrey K. Sharofeev[^mail], Sergey V. Troitsky*
 
 This repository provides datasets corresponding to the findings presented in [[arXiv:2412.08349]][0]
 
@@ -13,3 +13,5 @@ This repository provides datasets corresponding to the findings presented in [[a
 [0]: <https://arxiv.org/abs/2412.08349> "Nickolay S. Martynenko, Grigory I. Rubtsov, Petr S. Satunin, Andrey K. Sharofeev, Sergey V. Troitsky, 'Hypothetical Lorentz invariance violation and the muon content of extensive air showers' (2024) e-print: arXiv:2412.08349"
 [1]: <https://pos.sissa.it/444/466> "J. C. Arteaga Velazquez, 'A report by the WHISP working group on the combined analysis of muon data at cosmic-ray energies above&nbsp;1&nbsp;PeV', PoS ICRC2023, 466 (2023)"
 [2]: <https://www.iap.kit.edu/corsika/70.php> "CORSIKA: A Monte Carlo Code to Simulate Extensive Air Showers"
+
+[^mail]: Corresponding author: <a href="mailto:sharofeev@inr.ac.ru?subject=arXiv:2412.08349">sharofeev@inr.ac.ru</a>
