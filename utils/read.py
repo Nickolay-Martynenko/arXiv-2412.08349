@@ -11,7 +11,7 @@ def read_CORSIKA(fp) -> dict:
     Parameters
     ----------
     fp : str
-        path to WHISP.json file
+        path to train.json file
 
     Returns
     -------
