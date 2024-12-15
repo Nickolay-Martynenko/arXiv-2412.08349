@@ -1,5 +1,11 @@
 # Hypothetical Lorentz invariance violation and the muon content of extensive air showers
-*Nickolay S. Martynenko, Grigory I. Rubtsov, Petr S. Satunin, Andrey K. Sharofeev[^mail], Sergey V. Troitsky*
+*Nickolay S. Martynenko<sup> a, b</sup>, Grigory I. Rubtsov<sup> b, a</sup>, Petr S. Satunin<sup> b, a</sup>, Andrey K. Sharofeev<sup> a, b</sup> [^mail], Sergey V. Troitsky<sup> b, a</sup>*
+
+*a. Lomonosov Moscow State University, 1-2 Leninskie Gory, Moscow 119991, Russia*
+
+*b. Institute for Nuclear Research of the Russian Academy of Sciences, 60th October Anniversary Prospect 7a, Moscow 117312, Russia*
+
+---
 
 This repository provides datasets corresponding to the findings presented in [[arXiv:2412.08349]][0]
 
