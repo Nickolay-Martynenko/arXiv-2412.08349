@@ -5,6 +5,21 @@
 
 *b.&nbsp;Institute for&nbsp;Nuclear Research of&nbsp;the&nbsp;Russian Academy of&nbsp;Sciences, 60th&nbsp;October Anniversary Prospect&nbsp;7a, Moscow&nbsp;117312, Russia*
 
+    @article{Martynenko:2024rhj,
+        author = "Martynenko, Nickolay S. and Rubtsov, Grigory I. and Satunin, Petr S. and Sharofeev, Andrey K. and Troitsky, Sergey V.",
+        title = "{Hypothetical Lorentz invariance violation and the muon content of extensive air showers}",
+        eprint = "2412.08349",
+        archivePrefix = "arXiv",
+        primaryClass = "astro-ph.HE",
+        reportNumber = "INR-TH-2024-023",
+        doi = "10.1103/PhysRevD.111.063010",
+        journal = "Phys. Rev. D",
+        volume = "111",
+        number = "6",
+        pages = "063010",
+        year = "2025"
+    }
+
 ---
 
 This repository provides datasets corresponding to the findings presented in [[arXiv:2412.08349]][0]
